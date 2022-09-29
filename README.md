@@ -1,2 +1,2 @@
-# CGT545-TEST1
+# CGT545_TEST1
 Created for testing.
